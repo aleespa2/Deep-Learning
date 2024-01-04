@@ -1,0 +1,3 @@
+Este modelo consigue predecir si alguien tiene o no deficit de atención usando ondas cerebrales (encefalograma) con una precisión aproximada del 97%.
+
+El dataset de los autores originales se encuentra aquí: https://ieee-dataport.org/open-access/eeg-data-adhd-control-children
